@@ -1,0 +1,11 @@
+territory_id,territory_name,region,population,num_reps_assigned,competitor_discount_zone,reduced_call_intensity_zone
+T01,Delhi,North,19063384,4,False,False
+T02,Jaipur,North,13626622,8,False,False
+T03,Lucknow,North,14631058,8,False,False
+T04,Bangalore,South,18252634,3,True,True
+T05,Hyderabad,South,12830971,5,True,True
+T06,Chennai,South,16186656,7,False,False
+T07,Mumbai,West,17172067,3,False,False
+T08,Pune,West,6828522,7,False,False
+T09,Kolkata,East,3944036,3,False,False
+T10,Bhubaneswar,East,8102826,5,False,False
