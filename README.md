@@ -29,7 +29,7 @@ reps, rep activity, marketing spend, competitor pricing, and prescriptions.
 
 ```
 glucocare-portfolio/
-├── data/                       # 7 CSVs
+├── dataset/                       # 7 CSVs
 ├── sql/
 │   ├── 01_schema.sql           # Table definitions
 │   └── 02_business_queries.sql # 10 business queries
@@ -44,7 +44,7 @@ glucocare-portfolio/
 
 ## How to Reproduce
 
-1. Load the CSVs from `data/` into a SQL database
+1. Load the CSVs from `dataset/` into a SQL database
 2. Run `sql/01_schema.sql` to create tables
 3. Run `sql/02_business_queries.sql` for the analysis
 4. Open the Tableau dashboard — see `tableau/README.md`
