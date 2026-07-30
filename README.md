@@ -29,7 +29,9 @@ reps, rep activity, marketing spend, competitor pricing, and prescriptions.
 
 ```
 glucocare-portfolio/
-├── dataset/                       # 7 CSVs
+├── dataset/                    # 7 CSVs     
+├── image/
+│   ├── 01_schema.sql           # Pharma Analysis Screenshot.png
 ├── sql/
 │   ├── 01_schema.sql           # Table definitions
 │   └── 02_business_queries.sql # 10 business queries
