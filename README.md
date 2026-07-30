@@ -29,14 +29,14 @@ reps, rep activity, marketing spend, competitor pricing, and prescriptions.
 
 ```
 glucocare-portfolio/
-├── dataset/                    # 7 CSVs     
+├── dataset/                                 # 7 CSV files    
 ├── image/
-│   ├── 01_schema.sql           # Pharma Analysis Screenshot.png
+│   └── Pharma Analysis Screenshot.png       # Screenshot of dashboard
 ├── sql/
-│   ├── 01_schema.sql           # Table definitions
-│   └── 02_business_queries.sql # 10 business queries
+│   ├── 01_schema.sql                        # Table definitions
+│   └── 02_business_queries.sql              # 10 business queries
 └── tableau/
-    └── README.md               # Dashboard details
+    └── README.md                            # Dashboard details
 ```
 
 ## Tech Stack
